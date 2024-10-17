@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="10.17.0">
+<file name="/Users/nitesh/projects/maven-dep-management/code/src/main/java/com/endor/MyClass.java">
+</file>
+<file name="/Users/nitesh/projects/maven-dep-management/code/src/main/java/com/endor/stringsub.java">
+</file>
+<file name="/Users/nitesh/projects/maven-dep-management/code/src/main/java/com/endor/DeserialPoC.java">
+</file>
+<file name="/Users/nitesh/projects/maven-dep-management/code/src/test/java/com/endor/MyClassTest.java">
+</file>
 </checkstyle>
